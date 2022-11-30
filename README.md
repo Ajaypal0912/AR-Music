@@ -47,7 +47,11 @@ Used to add camera to the web browser.
 
 To control the music the code used is:
 <script>
+
 		var drums = new Howl({
+		
 			src: ['./audio/drums.mp3']
+			
 		});
+		
     </script>
